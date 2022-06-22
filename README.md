@@ -1,2 +1,0 @@
-# pubg
-this is opt
